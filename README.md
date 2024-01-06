@@ -42,8 +42,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img src="https://stats.quine.sh/hustler0109/github?theme=dark" width="400" />
-  <img src="https://stats.quine.sh/hustler0109/dependencies?theme=dark" width="400" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd&unique={true|1|on|yes}"/>
 </p>
 
 <div align="center">
