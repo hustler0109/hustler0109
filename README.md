@@ -22,8 +22,8 @@
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Agile & Waterfall Methodologies](https://img.shields.io/badge/Agile-%20Waterfall-Methodologies-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![UI/UX Designing](https://img.shields.io/badge/UI/UX Designing-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23ED8B00.svg?style=for-the-badge&logo=agile&logoColor=white)
+![UI/UX Designing](https://img.shields.io/badge/UI/UX-%23ED8B00.svg?style=for-the-badge&logo=ui/ux&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Application Development](https://img.shields.io/badge/Application-Development-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Application Development](https://img.shields.io/badge/AppDev-%23ED8B00.svg?style=for-the-badge&logo=AppDev&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
 
