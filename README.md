@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shristy Joshi Thakur</h1>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/manufacturetocat/">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3">
 <h3 align="center">A passionate Product Developer and Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler0109&label=Profile%20views&color=0e75b6&style=flat" alt="hustler0109" /> </p>
