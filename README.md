@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shristy Joshi Thakur</h1>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/NeJHUJzGgAKMjwMB8">
 <h3 align="center">A passionate Product Developer and Web Developer.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler0109&label=Profile%20views&color=0e75b6&style=flat" alt="hustler0109" /> </p>
 
 - 📫 Reach out to me @ **shristyjoshitk2001@gmail.com.**
@@ -12,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/ShristyJoshiTk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShristyJoshiTk" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/shristy-joshi-thakur-828597201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shristy joshi thakur" height="30" width="40" /></a>
-<a href="https://drive.google.com/drive/folders/1bas3psqogd-Pfrl8-snDxyJmBO5wQqY-?usp=sharing" target="blank"><img align="center" src="https://www.freeiconspng.com/img/19036" alt="shristy joshi thakur" height="30" width="40" /></a>
+<a href="https://drive.google.com/drive/folders/1bas3psqogd-Pfrl8-snDxyJmBO5wQqY-?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Resume-brightgreen?style=for-the-badge" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100072733616053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shristy joshi thakur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shristyjoshitk.22/" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Portfolio-brightyellow?style=for-the-badge" alt="shristyjoshitk.22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hustler_0109" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/codechef.png" alt="hustler_0109" height="30" width="40" /></a>
