@@ -54,7 +54,7 @@
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd={true|1|on|yes}"/>
 </p>
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wbzsygsec54cyukg5gw4qnekai&unique={true|1|on|yes}"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd&unique={true|1|on|yes}"/>
 </p>
 
 <div align="center">
