@@ -53,6 +53,9 @@
 <p align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd={true|1|on|yes}"/>
 </p>
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wbzsygsec54cyukg5gw4qnekai&unique={true|1|on|yes}"/>
+</p>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="100"/>
