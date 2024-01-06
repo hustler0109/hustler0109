@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shristy Joshi Thakur</h1>
 <h3 align="center">A passionate Product Developer and Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler0109&label=Profile%20views&color=0e75b6&style=flat" alt="hustler0109" /> </p>
 
 - 📫 Reach out to me @ **shristyjoshitk2001@gmail.com.**
   
