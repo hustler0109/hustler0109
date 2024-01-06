@@ -51,9 +51,6 @@
 
 ## 🎵 Spotify Recently Played
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd={true|1|on|yes}"/>
-</p>
-<p align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd&unique={true|1|on|yes}"/>
 </p>
 
