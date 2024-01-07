@@ -33,7 +33,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Application Development](https://img.shields.io/badge/AppDev-%23ED8B00.svg?style=for-the-badge&logo=AppDev&logoColor=white)
-
+<br>
+<h3 align="left">Design Tools🎨</h3>
+<div style="display: inline-block;" >
+<img src="https://logowik.com/content/uploads/images/figma459.logowik.com.webp" height="65px" width="80px" style="overflow: hidden;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="45px" width="48px" style="object-fit: cover;">
+</div>
+<br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
