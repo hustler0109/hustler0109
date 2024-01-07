@@ -44,6 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
 
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
