@@ -47,11 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact"/>
 </div>  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hustler0109/hustler0109/output/github-contribution-grid-snake.svg" />
 
 ## 🎵 Spotify Recently Played
 <p align="center">
