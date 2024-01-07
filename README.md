@@ -47,8 +47,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact"/>
 </div>  
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hustler0109/hustler0109/output/github-contribution-grid-snake.svg" />
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vickyraut/vickyraut/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
 ## 🎵 Spotify Recently Played
 <p align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd&unique={true|1|on|yes}"/>
