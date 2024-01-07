@@ -48,9 +48,9 @@
 </div>  
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> Here's to my Contributions 🥂 </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vickyraut/vickyraut/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hustler0109/hustler0109/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
