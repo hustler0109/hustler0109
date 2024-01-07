@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1000" src="https://github.com/hustler0109/hustler0109/blob/main/RESOURCES/Galaxy%20Business%20Digital%20Background.gif">
-<h1 align="center">Hi 👋, I'm Shristy Joshi Thakur</h1>
+<h1 align="center">Hi 👋, I'm Shristy Joshi Thakur<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
 <h3 align="center">A passionate Product Developer and Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
