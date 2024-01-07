@@ -39,6 +39,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="45px" width="48px" style="object-fit: cover;">
 </div>
 <br/><br/>
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
