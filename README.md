@@ -50,8 +50,8 @@
 <div align="center">
   <h2> Here's to my Contributions 🥂 </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hustler0109/hustler0109/output/github-contribution-grid-snake.svg" />
-  
+    ![Snake animation](https://github.com/hustler0109/hustler0109/blob/output/github-contribution-grid-snake.svg)
+
   <br/><br/>
 </div>
 ## 🎵 Spotify Recently Played
