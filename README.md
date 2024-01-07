@@ -30,7 +30,7 @@
 </div>
 <br/><br/>
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-<div>
+<!--<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
 </div>
 <div>
@@ -38,7 +38,26 @@
 </div>
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
-</div>
+</div>-->
+<table>
+  <tr>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hustler0109" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
+    </td>
+  </tr>
+</table>
+
+
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## 🏆 GitHub Trophies
