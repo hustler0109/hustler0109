@@ -21,6 +21,7 @@
 </p>
 
 ## 💻 Tech Stack:
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Agile](https://img.shields.io/badge/Agile-%23ED8B00.svg?style=for-the-badge&logo=agile&logoColor=white)
