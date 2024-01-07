@@ -73,6 +73,17 @@
   </tr>
 </table>
 
+<div align="center">
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hustler0109&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hustler0109&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hustler0109&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler0109&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
+</div>
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
