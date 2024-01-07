@@ -47,6 +47,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact"/>
 </div>  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## 🎵 Spotify Recently Played
 <p align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd&unique={true|1|on|yes}"/>
