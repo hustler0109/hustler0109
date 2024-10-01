@@ -18,7 +18,7 @@
 
 - 📫 Reach out to me @ **shristyjoshitk2001@gmail.com.**
   
-- 💬 AWS AI/ML Scholar || α-MLSA || Google GH-R1 Finalist'23 || UNFCCC YOUNGO NDC WG || YOUNGA Scholar|| Web Developer GSSOC'24 || GSSOC'23 || TSOC'23 || SSOC'23 || SSOC'24 || shebuildsonAzure'23 || AI-ML & GenAI Enthusiast
+- 💬 AWS AI/ML Scholar • Program Manager @SWOC • Harvard ACONF'24 • C4GT Mentor'24 • Web @GSSOC'24 • Founder @GUC • Product Manager @TSOC'24 • Google GH-R1 Finalist'23 • UNFCCC YOUNGO NDC WG-Policy • Beta-MLSA • shebuildsonAzure'23 • AI-ML & GenAI Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
