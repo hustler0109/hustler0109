@@ -13,17 +13,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Converting+coffee+into+code!!!..👋">
   </a>
 </h1>
-<h3 align="center">A passionate Product Developer and Web Developer.</h3>
+<h3 align="center">A passionate Product Manager and Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 - 📫 Reach out to me @ **shristyjoshitk2001@gmail.com.**
   
-- 💬 AWS AI/ML Scholar • Program Manager @SWOC • Harvard ACONF'24 • C4GT Mentor'24 • Web @GSSOC'24 • Founder @GUC • Product Manager @TSOC'24 • Google GH-R1 Finalist'23 • UNFCCC YOUNGO NDC WG-Policy • Beta-MLSA • shebuildsonAzure'23 • AI-ML & GenAI Enthusiast
+- 💬 SDE Intern @ONDC • Program Manager @SWOC • Harvard ACONF'24 • C4GT Mentor'24 • Web @GSSOC'24 • Founder @GUC • Product Manager @TSOC'24 • Google GH-R1 Finalist'23 • UNFCCC YOUNGO NDC WG-Policy • Beta-MLSA •  AWS AI/ML Scholar • shebuildsonAzure'23 • AI-ML & GenAI Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ShristyJoshiTk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShristyJoshiTk" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shristy-joshi-thakur-828597201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shristy joshi thakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shristy-joshi-thakur-828597201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shristy joshi thakur" height="30" width="40" /></a>
 <a href="https://drive.google.com/drive/folders/1bas3psqogd-Pfrl8-snDxyJmBO5wQqY-?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Resume-brightgreen?style=for-the-badge" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100072733616053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shristy joshi thakur" height="30" width="40" /></a>
 <a href="https://bio.link/shristyjoshitk" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Portfolio-brightyellow?style=for-the-badge" alt="shristyjoshitk.22" height="30" width="40" /></a>
