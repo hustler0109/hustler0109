@@ -59,12 +59,12 @@
 <table>
   <tr>
     <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="[hustler0109](https://www.goodworklabs.com/wp-content/uploads/2017/09/4a-How-GitHub-is-shaping-your-software-career.png)" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hustler0109" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hustler0109&theme=transparent" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
