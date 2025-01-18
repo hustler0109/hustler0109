@@ -39,7 +39,7 @@
 ## 🎨 Design tools:
 <div style="display: inline-block;" >
 <img src="https://logowik.com/content/uploads/images/figma459.logowik.com.webp" height="65px" width="80px" style="overflow: hidden;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="45px" width="48px" style="object-fit: cover;">
+ <img src="https://en.wikipedia.org/wiki/Adobe_Express#/media/File:Adobe_Express_logo_RGB_1024px.png" height="45px" width="48px" style="object-fit: cover;">
 </div>
 <br/><br/>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
