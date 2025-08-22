@@ -122,6 +122,6 @@
 <div align = "center">
  
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/hustler0109/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hustler0109.hustler0109)
 
 </div>
