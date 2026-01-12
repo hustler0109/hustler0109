@@ -151,25 +151,28 @@ to LLM workflow engines and research automation platforms.
 
 ## 🚀 Featured Projects (High Signal)
 
-### 🔗 **LLM Workflow Builder**
-Visual DAG-based system for designing and validating LLM pipelines  
+### 🚀 [![Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/hustler0109/LLM-Pipeline-Builder)  
+**LLM Workflow Builder**
+Visual DAG-based system for designing and validating LLM pipelines
 - Node/edge validation, cycle detection  
 - Explainable execution flow  
-- React-based UI + backend orchestration  
-🔗 *Repo | Demo*
+- React-based UI + backend orchestration
 
-### 📚 **Research Workflow Manager**
-End-to-end research productivity system  
+
+### 📚 [![Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/hustler0109/Research-Workflow-Manager)  
+**Research Workflow Manager**
+End-to-end research productivity system
 - Reading funnels & progress stages  
 - Time-based analytics  
-- CSV / PDF exports  
-🔗 *Repo*
+- CSV / PDF exports
 
-### 🛒 **ONDC OpenCart Adapter**
-Production-grade ONDC integration  
+
+### 🛒 [![Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/hustler0109/opencart-adaptor)  
+**ONDC OpenCart Adapter**
+Production-grade ONDC integration
 - Catalog sync, order lifecycle, fulfillment APIs  
-- Admin dashboard & compliance workflows  
-🔗 *Repo*
+- Admin dashboard & compliance workflows
+
 
 ---
 
