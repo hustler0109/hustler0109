@@ -117,19 +117,19 @@
 
 <h1 align="center">Hi, I'm Shristy Joshi Thakur 👋</h1>
 <h3 align="center">
-Product-Focused Full Stack Engineer • LLM & Workflow Systems • Open Source Mentor
+Product-Focused Full Stack Engineer • LLM & Workflow Systems • Community and Research Enthusiast
 </h3>
 
 <p align="center">
-I design and build scalable web & AI systems — from ONDC-compliant commerce adapters  
+I design and build scalable web & AI systems — from Web APIs  
 to LLM workflow engines and research automation platforms.
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🚀 **SDE Intern @ ONDC**
-- 🧠 **Product Manager @ Timechain Summer of Code**
+- 🚀 **MLH Top 50 2025**
+- 🧠 **Nestle $1000 Scholar mini MBA by Harvard Leaders**
 - 🎓 **Harvard Asia Conference (ACONF) 2024 Delegate**
 - 🤝 **Mentor @ C4GT, GSSOC, AnitaB.org**
 - 🌍 **UNFCCC YOUNGO – NDC Policy Working Group**
@@ -144,7 +144,7 @@ to LLM workflow engines and research automation platforms.
 <p align="center">
 <a href="https://www.linkedin.com/in/shristy-joshi-thakur-828597201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://bio.link/shristyjoshitk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge"/></a>
-<a href="https://drive.google.com/drive/folders/1bas3psqogd-Pfrl8-snDxyJmBO5wQqY-?usp=sharing"><img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge"/></a>
+<a href="[https://drive.google.com/drive/folders/1bas3psqogd-Pfrl8-snDxyJmBO5wQqY-?usp=sharing](https://drive.google.com/file/d/16nEd7iGVmdei_-URVTxGnhlcOgNrRzVm/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge"/></a>
 </p>
 
 ---
