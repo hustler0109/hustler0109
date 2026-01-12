@@ -1,10 +1,9 @@
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--  
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <img align="center" alt="Coding" width="1000" src="https://github.com/hustler0109/hustler0109/blob/main/RESOURCES/shri.gif">
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h1 align="center">Hi 👋, I'm Shristy Joshi Thakur<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
@@ -43,19 +42,10 @@
 <img src="https://www.pcworld.com/wp-content/uploads/2023/12/CanvavsPS.jpg?resize=1024%2C576&quality=50&strip=all" height="65px" width="80px" style="overflow: hidden;">
 </div>
 <br/><br/>
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<!--<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
-</div>
-<div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hustler0109" alt="GitHub Streak" /></a>
-</div>
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
-</div>-->
+
 <table>
   <tr>
     <td>
@@ -75,19 +65,14 @@
 </table>
 
 <div align="center">
-    <!-- Top languages by commit -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hustler0109&theme=2077" height="210em" alt="Top languages by commit" />
-    <!-- Top languages by repo -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hustler0109&theme=2077" height="210em" alt="Top languages by repo" />
-    <!-- Histogram of Commits -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hustler0109&theme=2077" height="210em" alt="Histogram of Commits" />
-    <!-- Graph of Commits -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler0109&theme=2077" height="210em" alt="Graph of Commits" />
   </a>
 </div>
 
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -95,7 +80,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -125,3 +109,102 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hustler0109.hustler0109)
 
 </div>
+-->
+
+
+<!-- Hero -->
+<img align="center" width="100%" src="https://github.com/hustler0109/hustler0109/blob/main/RESOURCES/shri.gif" />
+
+<h1 align="center">Hi, I'm Shristy Joshi Thakur 👋</h1>
+<h3 align="center">
+Product-Focused Full Stack Engineer • LLM & Workflow Systems • Open Source Mentor
+</h3>
+
+<p align="center">
+I design and build scalable web & AI systems — from ONDC-compliant commerce adapters  
+to LLM workflow engines and research automation platforms.
+</p>
+
+---
+
+## 🌟 About Me
+- 🚀 **SDE Intern @ ONDC**
+- 🧠 **Product Manager @ Timechain Summer of Code**
+- 🎓 **Harvard Asia Conference (ACONF) 2024 Delegate**
+- 🤝 **Mentor @ C4GT, GSSOC, AnitaB.org**
+- 🌍 **UNFCCC YOUNGO – NDC Policy Working Group**
+- 🏆 **Google GH-R1 Finalist | AWS AI/ML Scholar | Beta MLSA**
+- 👩‍💻 Founder @ **Girl Up Coders (UN Foundation Campus Club)**
+
+📫 **Reach me:** `shristyjoshitk2001@gmail.com`
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/shristy-joshi-thakur-828597201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://bio.link/shristyjoshitk"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge"/></a>
+<a href="https://drive.google.com/drive/folders/1bas3psqogd-Pfrl8-snDxyJmBO5wQqY-?usp=sharing"><img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects (High Signal)
+
+### 🔗 **LLM Workflow Builder**
+Visual DAG-based system for designing and validating LLM pipelines  
+- Node/edge validation, cycle detection  
+- Explainable execution flow  
+- React-based UI + backend orchestration  
+🔗 *Repo | Demo*
+
+### 📚 **Research Workflow Manager**
+End-to-end research productivity system  
+- Reading funnels & progress stages  
+- Time-based analytics  
+- CSV / PDF exports  
+🔗 *Repo*
+
+### 🛒 **ONDC OpenCart Adapter**
+Production-grade ONDC integration  
+- Catalog sync, order lifecycle, fulfillment APIs  
+- Admin dashboard & compliance workflows  
+🔗 *Repo*
+
+---
+
+## 💻 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,node,python,java,c,cpp,html,css,mongodb,mysql,git,django" />
+</p>
+
+---
+
+## 🎨 Design & Product Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Adobe_Express_logo_RGB_1024px.png" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Snapshot
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hustler0109&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🧭 What I Care About
+- Building **real systems**, not demos
+- Clear **product thinking + strong engineering**
+- Accessibility, scalability & clean architecture
+- Mentorship & community-driven tech
+
+---
+
+<p align="center">
+✨ Always learning. Always building. ✨
+</p>
+
