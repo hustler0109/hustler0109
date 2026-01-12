@@ -134,7 +134,7 @@ to LLM workflow engines and research automation platforms.
 - 🤝 **Mentor @ C4GT, GSSOC, AnitaB.org**
 - 🌍 **UNFCCC YOUNGO – NDC Policy Working Group**
 - 🏆 **Google GH-R1 Finalist | AWS AI/ML Scholar | Beta MLSA**
-- 👩‍💻 Founder @ **Girl Up Coders (UN Foundation Campus Club)**
+- 👩‍💻 Founder @ **Girl Up Coders**
 
 📫 **Reach me:** `shristyjoshitk2001@gmail.com`
 
