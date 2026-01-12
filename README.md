@@ -208,7 +208,6 @@ Production-grade ONDC integration
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact"/>
@@ -236,7 +235,6 @@ Production-grade ONDC integration
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hustler0109.hustler0109)
 
 </div>
--->
 
 
 
