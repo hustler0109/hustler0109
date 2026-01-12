@@ -175,7 +175,7 @@ Production-grade ONDC integration
 
 ## 💻 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,node,python,java,c,cpp,html,css,mongodb,mysql,git,django" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,c,cpp,html,css,mongodb,mysql,git,django" />
 </p>
 
 ---
