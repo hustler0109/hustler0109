@@ -190,26 +190,76 @@ Production-grade ONDC integration
 
 ## 📊 GitHub Snapshot
 
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+
+<table>
+  <tr>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact" alt="hustler0109" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hustler0109&theme=dark" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&locale=en" alt="hustler0109" /></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hustler0109&theme=2077" height="210em" alt="Top languages by commit" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hustler0109&theme=2077" height="210em" alt="Top languages by repo" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hustler0109&theme=2077" height="210em" alt="Histogram of Commits" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler0109&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
+</div>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=hustler0109&show_icons=true&theme=tokyonight" 
-  height="165"
-/>
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=hustler0109&theme=tokyonight" 
-  height="165"
-/>
 
-<br/><br/>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler0109&theme=tokyonight" 
-  height="210"
-/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact"/>
+</div>  
+
+<div align="center">
+  <h2> Here's to my Contributions 🥂 </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vickyraut/vickyraut/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+</div>
+
+## 🎵 Spotify Recently Played
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=t93tnqzpwq64tkeipihl1udwd&unique={true|1|on|yes}"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="100"/>
+</div>
+<div align = "center">
+ 
+**Visitors Count**  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hustler0109.hustler0109)
 
 </div>
+-->
+
+
 
 
 
