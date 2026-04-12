@@ -128,6 +128,7 @@ to LLM workflow engines and research automation platforms.
 ---
 
 ## 🌟 About Me
+- 🎓 **Stanford University Code In Place Section Leader 2026**
 - 🚀 **MLH Top 50 2025**
 - 🧠 **Nestle $1000 Scholar mini MBA by Harvard Leaders**
 - 🎓 **Harvard Asia Conference (ACONF) 2024 Delegate**
