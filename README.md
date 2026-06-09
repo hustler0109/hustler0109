@@ -153,7 +153,7 @@ to LLM workflow engines and research automation platforms.
 ## 🚀 Featured Projects (High Signal)
 
 ### 🚀 [![Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/hustler0109/LLM-Pipeline-Builder)  
-**LLM Workflow Builder**
+**LLM Workflow Builder | AI Systems & Orchestration Platform**
 Visual DAG-based system for designing and validating LLM pipelines
 - Node/edge validation, cycle detection  
 - Explainable execution flow  
